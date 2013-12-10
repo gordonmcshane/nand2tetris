@@ -8,5 +8,5 @@ If you want to join in, get the [TECS book](http://www.nand2tetris.org/book.php)
 Some helpful links
 ------------------
 
-[Course site](http://www.nand2tetris.org/)
-[Forum](http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/)
+- [Course site](http://www.nand2tetris.org/)
+- [Forum](http://nand2tetris-questions-and-answers-forum.32033.n3.nabble.com/)
